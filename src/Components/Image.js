@@ -4,15 +4,12 @@ import styled from 'styled-components'
 const StyledImg = styled.img`
 width: 50%;
   border-radius: 20px;
-  border: 15px inset #A0A0A0;.
-  transform: skewX(35deg);
-  transform: skewY(10deg);
-  transform: skew(35deg, 10deg);
-  transition: transform 1s;
+  border: 15px inset ##fffff0;
+  transition: 1s ease-in-out;
   }
-
+  transition: 0.5s ease-in-out;
   &:hover{
-    transform: skewX(-20px);
+    transform: scale(1.5)
   }
 `
 
