@@ -9,7 +9,9 @@
     "axios": "^0.21.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-styled-components": "^0.1.11",
+    "styled-components": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
